@@ -1,6 +1,6 @@
 # My Portfolio Website with React & TailwindCSS
 
-![screenshot](./assets/portfolio.png)
+![screenshot](./src/assets/portfolio.png)
 <div align="center">
   <br />
   <div>
