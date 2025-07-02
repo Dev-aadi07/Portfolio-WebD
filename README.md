@@ -2,9 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="" target="_blank">
-    <img src="./portfolio.png" alt="Portfolio Website Banner">
-  </a>
+  ![screenshot](./screenshot.png)
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -92,12 +90,6 @@ npm run dev
 ```
 
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
 ---
 
