@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  ![screenshot](./screenshot.png)
+  ![screenshot](.public/portfolio.png)
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
