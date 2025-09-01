@@ -3,7 +3,17 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "KrishnAI – Gita Chat App",
+    title: "QuestPath",
+    description:
+      "QuestPath is a React-based platform that organizes DSA questions by company and topic. Help users to practice for placement.",
+    image: "/projects/questpath.png",
+    tags: ["React", "React Router", "TailwindCSS", "vercel"],
+    demoUrl: "https://quest-path-peach.vercel.app/", 
+    githubUrl: "https://github.com/Dev-aadi07/QuestPath", 
+  },
+  {
+    id: 1,
+    title: "KrishnAI-Gita Chat App",
     description:
       "An interactive AI-powered chatbot that brings the wisdom of the Bhagavad Gita to life. Built with real-time responses and a serene UI.",
     image: "/projects/krishnai.png",
@@ -12,7 +22,7 @@ const projects = [
     githubUrl: "https://github.com/Dev-aadi07/Geeta-Gpt", // Replace with your GitHub repo link
   },
   {
-    id: 2,
+    id: 3,
     title: "Pomodoro Productivity App",
     description:
       "A sleek timer app inspired by the Pomodoro technique. Helps users manage time, boost focus, and track break intervals effectively.",
@@ -22,7 +32,7 @@ const projects = [
     githubUrl: "https://github.com/Dev-aadi07/Pomodoro", 
   },
   {
-    id: 3,
+    id: 4,
     title: "Personal Portfolio Website",
     description:
       "A responsive and modern portfolio to showcase my projects, skills, and contact info. Designed with smooth animations and clean UI.",
